@@ -1,5 +1,5 @@
 # 💻 Welcome to My GitHub!  
-Hi there! 👋 I'm a **Software Test Engineer** with over **3.5+ years of experience** in manual and automation testing. My expertise lies in ensuring high-quality software delivery through meticulous testing strategies and tools.  
+Hi there! 👋 I'm a **Software Test Engineer** with over **years of experience** in manual and automation testing. My expertise lies in ensuring high-quality software delivery through meticulous testing strategies and tools.  
 
 ---
 
