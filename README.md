@@ -11,16 +11,16 @@ Hi there! 👋 I'm a **Software Test Engineer** with over **years of experience*
 - Front-end and Back-end Testing  
 - API Testing  
 - Database Testing using MySQL and PostgreSQL  
-- Test Automation with Cypress and Autify  
+- Test Automation with Selenium(with Python) and Autify  
 
 ---
 
 ## 🛠️ Skills & Tools  
-- **Languages:** JavaScript, SQL  
-- **Testing Tools:** Cypress, Autify, Postman  
+- **Languages:** JavaScript(Basic), SQL, Python 
+- **Testing Tools:** Cypress, Autify, Postman,Selenium-Pycharm  
 - **Databases:** MySQL, PostgreSQL  
 - **Expertise:** Functional Testing, Regression Testing, Integration Testing,Performance Testing  
-- **Additional Tools:** Jenkins, CI/CD, Locust, etc.  
+- **Additional Tools:** Jenkins, CI/CD, JMeter, etc.  
 - **Project Management Tools:** JIRA, Asana, Clickup etc.
 
 ---
